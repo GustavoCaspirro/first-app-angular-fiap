@@ -1,3 +1,8 @@
-# angular-dqqhjk
+# App My Store
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dqqhjk)
+## Sobre
+App created with stackblitz.
+
+# Author
+
+* **Gustavo Caspirro** - [Gustavo Caspirro](https://github.com/GustavoCaspirro)
