@@ -1,0 +1,7 @@
+.shipping-item {
+  min-width: auto;
+}
+
+.shipping-item span:last-of-type {
+  margin-left: 20px;
+}
